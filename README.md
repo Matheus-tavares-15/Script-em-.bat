@@ -1,4 +1,3 @@
-Claro! Vou adicionar alguns emojis para enfeitar o README.md:
 
 ---
 

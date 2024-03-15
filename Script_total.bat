@@ -87,9 +87,8 @@ if %opcao% == 1 (
             
             if !valid! == 1 (
 
-                @REM shutdown.exe /s /t 00
-                echo "entrouu no S"
-                pause
+                shutdown.exe /s /t 00
+                
 
             ) else if !valid! == 2 (
                 cls
@@ -115,9 +114,7 @@ if %opcao% == 1 (
             
             if !valid! == 1 (
 
-                @REM shutdown.exe /s /t 00
-                echo "entrouu no S"
-                pause
+               shutdown.exe /s /t 00
 
             ) else if !valid! == 2 (
                 cls
@@ -167,9 +164,7 @@ if %opcao% == 1 (
                 
                 if !valid! == 1 (
 
-                    @REM shutdown.exe /s /t 00
-                    echo "entrouu no S"
-                    pause
+                    shutdown.exe /s /t 00
 
                 ) else if !valid! == 2 (
                     cls
@@ -200,9 +195,7 @@ if %opcao% == 1 (
                 
             if !valid! == 1 (
 
-                @REM shutdown.exe /s /t 00
-                echo "entrouu no S"
-                pause
+               shutdown.exe /s /t 00
 
             ) else if !valid! == 2 (
                 cls
@@ -250,9 +243,7 @@ if %opcao% == 1 (
                 
             if !valid! == 1 (
 
-                    @REM shutdown.exe /s /t 00
-                    echo "entrouu no S"
-                    pause
+                    shutdown.exe /s /t 00
 
             ) else if !valid! == 2 (
                     cls
@@ -283,9 +274,7 @@ if %opcao% == 1 (
                 
         if !valid! == 1 (
 
-                    @REM shutdown.exe /s /t 00
-                    echo "entrouu no S"
-                    pause
+                    shutdown.exe /s /t 00
 
         ) else if !valid! == 2 (
                     cls
